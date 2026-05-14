@@ -6,6 +6,7 @@ This project is a collection of interactive mini games developed in Java.
   - Beach Ball Game
   - Paint Fight Game
   - King Yard Game
+- Background music integrated into each game for a more engaging experience
 - Interactive gameplay and user-friendly interface
 ## About
 The project starts with a main page where users can choose which game they want to play. 
